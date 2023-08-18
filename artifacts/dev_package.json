@@ -110,7 +110,15 @@
 	"wf_definition": [],
 	"connector": [],
 	"events": [],
-	"media_library": [],
+	"media_library": [
+		{
+			"id": "63EE059A-A53D-EE11-B8F0-002248A2F7BE",
+			"updatedAt": "2023-08-18T08:59:56.813Z",
+			"name": "compass_group",
+			"parent": null,
+			"package": "447200F0-533B-EE11-B8F0-002248A2F7BE"
+		}
+	],
 	"code_snippets": [],
 	"wf_determination": [],
 	"wf_taskaction": []
