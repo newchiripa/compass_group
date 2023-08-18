@@ -1,0 +1,117 @@
+{
+	"id": "447200f0-533b-ee11-b8f0-002248a2f7be",
+	"createdAt": "2023-08-15T10:10:20.020Z",
+	"createdBy": "kaan.koska@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/newchiripa/compass_group"
+	},
+	"name": "Compass POC",
+	"description": null,
+	"ver": "23.8.18.834",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "0c466330-573b-ee11-b8f0-002248a2f7be",
+			"application": "compass_footer",
+			"title": "",
+			"description": ""
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [
+		{
+			"id": "cd925959-263c-ee11-b8f0-002248a2f7be",
+			"description": "Non-SAP",
+			"name": "Travel & Expenses V2 Compass Group"
+		},
+		{
+			"id": "c6130015-263c-ee11-b8f0-002248a2f7be",
+			"description": null,
+			"name": "Booking - Flight - Generic Compass Group"
+		},
+		{
+			"id": "a5608d7f-173c-ee11-b8f0-002248a2f7be",
+			"description": null,
+			"name": "Raise an Invoice or Credit Note"
+		},
+		{
+			"id": "93869749-263c-ee11-b8f0-002248a2f7be",
+			"description": null,
+			"name": "Booking - Vehicle Hire Compass Group"
+		},
+		{
+			"id": "649d7c37-263c-ee11-b8f0-002248a2f7be",
+			"description": null,
+			"name": "Booking - Accomodations - Hotels Compass Group"
+		},
+		{
+			"id": "1e4614e1-583b-ee11-b8f0-002248a2f7be",
+			"description": null,
+			"name": "Corporate_Office_Catering_Services"
+		}
+	],
+	"category": [
+		{
+			"id": "bcbb6e5c-593b-ee11-b8f0-002248a2f7be",
+			"description": null,
+			"name": "Compass Group Food Services"
+		},
+		{
+			"id": "af7030a7-173c-ee11-b8f0-002248a2f7be",
+			"description": null,
+			"name": "PM Invoice Management Compass group"
+		},
+		{
+			"id": "a428229e-233c-ee11-b8f0-002248a2f7be",
+			"description": null,
+			"name": "InternalBooking Compass Group"
+		},
+		{
+			"id": "8c3a0070-5a3b-ee11-b8f0-002248a2f7be",
+			"description": null,
+			"name": "Compass group Corporate & office catering services"
+		},
+		{
+			"id": "4c7e0576-233c-ee11-b8f0-002248a2f7be",
+			"description": null,
+			"name": "Compass Group Travel Expense "
+		},
+		{
+			"id": "4b82db94-233c-ee11-b8f0-002248a2f7be",
+			"description": null,
+			"name": "Compass Group Travel Expense apps "
+		}
+	],
+	"launchpad": [
+		{
+			"id": "b8c487fe-533b-ee11-b8f0-002248a2f7be",
+			"name": "Compass POC",
+			"description": "Compass POC"
+		}
+	],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"media_library": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}

@@ -1,0 +1,64 @@
+.FlexBoxCorporateofficecateringservices {
+  background-color: rgb(22, 92, 125);
+  height: 400px;
+}
+
+.FlexBoxKeytoyourcompanyculture {
+  background-color: rgb(242, 198, 207);
+}
+
+.FlexBoxPeopleplanetfriendlyservices {
+  background-color: rgb(22, 92, 125);
+}
+
+.ButtonGetintouch {
+  background-color: transparent;
+  color: white;
+  border-color: white;
+  border-radius: 50px;
+  width: 150px;
+}
+.ButtonGetintouch:hover {
+  background-color: transparent;
+  border-color: white;
+  color: white;
+}
+
+.ButtonSustainability {
+  background-color: transparent;
+  color: white;
+  border-color: white;
+  border-radius: 50px;
+  width: 150px;
+  margin-left: 50px;
+}
+.ButtonSustainability:hover {
+  background-color: transparent;
+  border-color: white;
+  color: white;
+}
+
+.ButtonWhatFoodCanDo {
+  background-color: #004c45;
+  color: white;
+  border-color: #004c45;
+  border-radius: 50px;
+  width: 200px;
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+.ButtonWhatFoodCanDo:hover {
+  background-color: #004c45;
+  border-color: #004c45;
+  color: white;
+}
+
+@media (max-width: 768px) {
+  .FlexBoxCorporateofficecateringservices {
+    background-color: rgb(22, 92, 125);
+    height: 600px;
+  }
+  .FlexBoxKeytoyourcompanyculture {
+    background-color: rgb(242, 198, 207);
+  }
+}

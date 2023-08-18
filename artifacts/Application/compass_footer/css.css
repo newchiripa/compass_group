@@ -1,0 +1,73 @@
+.FlexBoxCorporateofficecateringservices {
+    background-color: rgba(22, 92, 125, 255);
+    height: 400px;
+}
+.FlexBoxKeytoyourcompanyculture {
+    background-color: rgba(242, 198, 207, 255);
+}
+.FlexBoxPeopleplanetfriendlyservices {
+    background-color: rgba(22, 92, 125, 255);
+}
+$primary-color: #003c52;
+$secondary-color: #ffac11;
+$transparent-color: rgba(22, 92, 125, 255);
+$text-font: "Source Sans Pro";
+$text-size: 0.75rem;
+$title-size: 1rem;
+@mixin button-styles($background-color, $text-color, $border-color) {
+    background-color: $background-color;
+    color: $text-color;
+    border-color: $border-color;
+    border-radius: 50px;
+    width: 150px;
+}
+.ButtonGetintouch {
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    border-radius: 50px;
+    width: 150px;
+    &:hover {
+        background-color: transparent;
+        border-color: white;
+        color: white;
+    }
+}
+.ButtonSustainability {
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    border-radius: 50px;
+    width: 150px;
+    margin-left: 50px;
+    &:hover {
+        background-color: transparent;
+        border-color: white;
+        color: white;
+    }
+}
+.ButtonWhatFoodCanDo {
+    background-color: #004c45;
+    color: white;
+    border-color: #004c45;
+    border-radius: 50px;
+    width: 200px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    &:hover {
+        background-color: #004c45;
+        border-color: #004c45;
+        color: white;
+    }
+}
+
+@media (max-width: 768px) {
+    .FlexBoxCorporateofficecateringservices {
+        background-color: rgba(22, 92, 125, 255);
+        height: 600px;
+    }
+    .FlexBoxKeytoyourcompanyculture {
+        background-color: rgba(242, 198, 207, 255);
+        // height: 600px;
+    }
+}

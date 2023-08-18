@@ -1,0 +1,1224 @@
+{
+	"id": "0c466330-573b-ee11-b8f0-002248a2f7be",
+	"createdAt": "2023-08-15T10:39:48.866Z",
+	"createdBy": "kaan.koska@neptune-software.com",
+	"objects": [
+		{
+			"fieldNo": "f6d34db4-cb71-48cc-89b1-14f31781daa6",
+			"fieldName": "FlexBoxContainer",
+			"fieldParent": 0,
+			"fieldType": "sap.m.FlexBox",
+			"script": "",
+			"customComponent": false,
+			"request": [],
+			"response": [],
+			"attributes": [
+				{
+					"attribute": "width",
+					"grouping": "Properties",
+					"value": "100%",
+					"script": "",
+					"translation": []
+				},
+				{
+					"attribute": "renderType",
+					"grouping": "Properties",
+					"value": "Bare",
+					"script": "",
+					"translation": []
+				},
+				{
+					"attribute": "fitContainer",
+					"grouping": "Properties",
+					"value": "true",
+					"script": "",
+					"translation": []
+				},
+				{
+					"attribute": "direction",
+					"grouping": "Properties",
+					"value": "Column",
+					"script": "",
+					"translation": []
+				}
+			],
+			"data": [
+				{
+					"fieldNo": "6ae71e3b-4faf-4d97-dd5a-a69f9b2a67b8",
+					"fieldName": "FlexBox",
+					"fieldParent": "f6d34db4-cb71-48cc-89b1-14f31781daa6",
+					"fieldType": "sap.m.FlexBox",
+					"script": "",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [
+						{
+							"attribute": "width",
+							"grouping": "Properties",
+							"value": "100%",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "renderType",
+							"grouping": "Properties",
+							"value": "Bare",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "fitContainer",
+							"grouping": "Properties",
+							"value": "true",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "direction",
+							"grouping": "Properties",
+							"value": "Column",
+							"script": "",
+							"translation": []
+						}
+					],
+					"data": [
+						{
+							"fieldNo": "8d627e55-26e9-4dab-857e-f5f0c1f5edc1",
+							"fieldName": "Image1",
+							"fieldParent": "6ae71e3b-4faf-4d97-dd5a-a69f9b2a67b8",
+							"fieldType": "sap.m.Image",
+							"script": "",
+							"customComponent": false,
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "width",
+									"grouping": "Properties",
+									"value": "100%",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "src",
+									"grouping": "Properties",
+									"value": "https://gtmdemosystem.neptune-software.cloud/media/root/Kaan/Screen Shot 2023-08-15 at 13.52.17 PM.png",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "height",
+									"grouping": "Properties",
+									"value": "100%",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": []
+						}
+					]
+				},
+				{
+					"fieldNo": "94d5c857-7153-4e04-ba91-4eb9d2839d78",
+					"fieldName": "FlexBoxCorporateofficecateringservices",
+					"fieldParent": "f6d34db4-cb71-48cc-89b1-14f31781daa6",
+					"fieldType": "sap.m.FlexBox",
+					"script": "",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [
+						{
+							"attribute": "width",
+							"grouping": "Properties",
+							"value": "100%",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "styleClass",
+							"grouping": "Properties",
+							"value": "FlexBoxCorporateofficecateringservices",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "renderType",
+							"grouping": "Properties",
+							"value": "Bare",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "justifyContent",
+							"grouping": "Properties",
+							"value": "Center",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "fitContainer",
+							"grouping": "Properties",
+							"value": "true",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "direction",
+							"grouping": "Properties",
+							"value": "Column",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "alignItems",
+							"grouping": "Properties",
+							"value": "Center",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "alignContent",
+							"grouping": "Properties",
+							"value": "Center",
+							"script": "",
+							"translation": []
+						}
+					],
+					"data": [
+						{
+							"fieldNo": "624acb6f-ec83-4fa3-9138-70c98177951c",
+							"fieldName": "FormattedText",
+							"fieldParent": "94d5c857-7153-4e04-ba91-4eb9d2839d78",
+							"fieldType": "sap.m.FormattedText",
+							"script": "",
+							"customComponent": false,
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "width",
+									"grouping": "Properties",
+									"value": "95%",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "textAlign",
+									"grouping": "Properties",
+									"value": "Center",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": []
+						},
+						{
+							"fieldNo": "eb0cb64b-bdd1-4bb5-9878-31ead3478d4f",
+							"fieldName": "ButtonGetintouch",
+							"fieldParent": "94d5c857-7153-4e04-ba91-4eb9d2839d78",
+							"fieldType": "nep.bootstrap.Button",
+							"script": "",
+							"customComponent": false,
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "styleClass",
+									"grouping": "Properties",
+									"value": "ButtonGetintouch",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "text",
+									"grouping": "Properties",
+									"value": "Get in touch",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": []
+						}
+					]
+				},
+				{
+					"fieldNo": "1e48fa4d-bbb7-4372-a8eb-9d09813644f3",
+					"fieldName": "FlexBoxKeytoyourcompanyculture",
+					"fieldParent": "f6d34db4-cb71-48cc-89b1-14f31781daa6",
+					"fieldType": "sap.m.FlexBox",
+					"script": "",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [
+						{
+							"attribute": "wrap",
+							"grouping": "Properties",
+							"value": "Wrap",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "width",
+							"grouping": "Properties",
+							"value": "100%",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "styleClassVisibility",
+							"grouping": "Properties",
+							"value": "sapUiHideOnPhone",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "styleClass",
+							"grouping": "Properties",
+							"value": "FlexBoxKeytoyourcompanyculture",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "renderType",
+							"grouping": "Properties",
+							"value": "Bare",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "justifyContent",
+							"grouping": "Properties",
+							"value": "SpaceBetween",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "fitContainer",
+							"grouping": "Properties",
+							"value": "true",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "alignItems",
+							"grouping": "Properties",
+							"value": "Center",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "alignContent",
+							"grouping": "Properties",
+							"value": "Center",
+							"script": "",
+							"translation": []
+						}
+					],
+					"data": [
+						{
+							"fieldNo": "8c915cc8-1dd8-43ea-a9f6-19d7e9d9a218",
+							"fieldName": "HBox",
+							"fieldParent": "1e48fa4d-bbb7-4372-a8eb-9d09813644f3",
+							"fieldType": "sap.m.HBox",
+							"script": "",
+							"customComponent": false,
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "width",
+									"grouping": "Properties",
+									"value": "60%",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "styleClass",
+									"grouping": "Properties",
+									"value": "HBox",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "renderType",
+									"grouping": "Properties",
+									"value": "Bare",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "justifyContent",
+									"grouping": "Properties",
+									"value": "Start",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "fitContainer",
+									"grouping": "Properties",
+									"value": "true",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "direction",
+									"grouping": "Properties",
+									"value": "Column",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": [
+								{
+									"fieldNo": "a6abcd84-b958-4956-a6b6-0c78d3d22568",
+									"fieldName": "FormattedKeytoyourcompanyculture",
+									"fieldParent": "8c915cc8-1dd8-43ea-a9f6-19d7e9d9a218",
+									"fieldType": "sap.m.FormattedText",
+									"script": "",
+									"customComponent": false,
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "width",
+											"grouping": "Properties",
+											"value": "100%",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "styleClassMargin",
+											"grouping": "Properties",
+											"value": "sapUiSmallMargin",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "textAlign",
+											"grouping": "Properties",
+											"value": "Left",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": []
+								},
+								{
+									"fieldNo": "0f75498a-c650-4717-9741-65368a5065bd",
+									"fieldName": "ButtonWhatFoodCanDo",
+									"fieldParent": "8c915cc8-1dd8-43ea-a9f6-19d7e9d9a218",
+									"fieldType": "nep.bootstrap.Button",
+									"script": "",
+									"customComponent": false,
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "styleClass",
+											"grouping": "Properties",
+											"value": "ButtonWhatFoodCanDo",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "text",
+											"grouping": "Properties",
+											"value": "What Food Can Do",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": []
+								}
+							]
+						},
+						{
+							"fieldNo": "6f1085c7-bbcf-4d76-ae1b-5692271215d5",
+							"fieldName": "Image",
+							"fieldParent": "1e48fa4d-bbb7-4372-a8eb-9d09813644f3",
+							"fieldType": "sap.m.Image",
+							"script": "",
+							"customComponent": false,
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "width",
+									"grouping": "Properties",
+									"value": "40%",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "src",
+									"grouping": "Properties",
+									"value": "https://gtmdemosystem.neptune-software.cloud/media/root/Kaan/Screen Shot 2023-08-15 at 15.44.16 PM.png",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": []
+						}
+					]
+				},
+				{
+					"fieldNo": "12b47391-eac9-481f-cde7-e29fff9cbbb1",
+					"fieldName": "FlexBoxPeopleplanetfriendlyservices",
+					"fieldParent": "f6d34db4-cb71-48cc-89b1-14f31781daa6",
+					"fieldType": "sap.m.FlexBox",
+					"script": "",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [
+						{
+							"attribute": "width",
+							"grouping": "Properties",
+							"value": "100%",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "styleClassVisibility",
+							"grouping": "Properties",
+							"value": "sapUiHideOnPhone",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "styleClass",
+							"grouping": "Properties",
+							"value": "FlexBoxPeopleplanetfriendlyservices",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "renderType",
+							"grouping": "Properties",
+							"value": "Bare",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "justifyContent",
+							"grouping": "Properties",
+							"value": "SpaceBetween",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "fitContainer",
+							"grouping": "Properties",
+							"value": "true",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "alignItems",
+							"grouping": "Properties",
+							"value": "Center",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "alignContent",
+							"grouping": "Properties",
+							"value": "Center",
+							"script": "",
+							"translation": []
+						}
+					],
+					"data": [
+						{
+							"fieldNo": "0e6420da-d25e-403f-a84b-4686e240de24",
+							"fieldName": "Image2",
+							"fieldParent": "12b47391-eac9-481f-cde7-e29fff9cbbb1",
+							"fieldType": "sap.m.Image",
+							"script": "",
+							"customComponent": false,
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "width",
+									"grouping": "Properties",
+									"value": "40%",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "src",
+									"grouping": "Properties",
+									"value": "https://gtmdemosystem.neptune-software.cloud/media/root/Kaan/Screen Shot 2023-08-15 at 23.30.11 PM.png",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": []
+						},
+						{
+							"fieldNo": "94aaeb61-f1be-47a0-d5a2-161e33fdbb4e",
+							"fieldName": "HBox1",
+							"fieldParent": "12b47391-eac9-481f-cde7-e29fff9cbbb1",
+							"fieldType": "sap.m.HBox",
+							"script": "",
+							"customComponent": false,
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "width",
+									"grouping": "Properties",
+									"value": "50%",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "styleClass",
+									"grouping": "Properties",
+									"value": "HBox",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "renderType",
+									"grouping": "Properties",
+									"value": "Bare",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "justifyContent",
+									"grouping": "Properties",
+									"value": "Start",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "fitContainer",
+									"grouping": "Properties",
+									"value": "true",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "direction",
+									"grouping": "Properties",
+									"value": "Column",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "alignItems",
+									"grouping": "Properties",
+									"value": "Start",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "alignContent",
+									"grouping": "Properties",
+									"value": "Start",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": [
+								{
+									"fieldNo": "2551fd3c-bb17-48f9-aa65-c1c65c2635aa",
+									"fieldName": "FormattedPeopleplanetfriendlyservices",
+									"fieldParent": "94aaeb61-f1be-47a0-d5a2-161e33fdbb4e",
+									"fieldType": "sap.m.FormattedText",
+									"script": "",
+									"customComponent": false,
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "width",
+											"grouping": "Properties",
+											"value": "90%",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "styleClassMargin",
+											"grouping": "Properties",
+											"value": "sapUiLargeMargin",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "textAlign",
+											"grouping": "Properties",
+											"value": "Left",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": []
+								},
+								{
+									"fieldNo": "d013beb6-d438-46dc-c9ec-8c2ea3edb033",
+									"fieldName": "ButtonSustainability",
+									"fieldParent": "94aaeb61-f1be-47a0-d5a2-161e33fdbb4e",
+									"fieldType": "nep.bootstrap.Button",
+									"script": "",
+									"customComponent": false,
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "styleClass",
+											"grouping": "Properties",
+											"value": "ButtonSustainability",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "text",
+											"grouping": "Properties",
+											"value": "Sustainability",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": []
+								}
+							]
+						}
+					]
+				},
+				{
+					"fieldNo": "6df24bc5-165e-48cb-ac0c-85c4fb5a44e6",
+					"fieldName": "FlexBoxKeytoyourcompanycultureMobile",
+					"fieldParent": "f6d34db4-cb71-48cc-89b1-14f31781daa6",
+					"fieldType": "sap.m.FlexBox",
+					"script": "",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [
+						{
+							"attribute": "wrap",
+							"grouping": "Properties",
+							"value": "Wrap",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "width",
+							"grouping": "Properties",
+							"value": "100%",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "styleClassVisibility",
+							"grouping": "Properties",
+							"value": "sapUiVisibleOnlyOnPhone",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "styleClass",
+							"grouping": "Properties",
+							"value": "FlexBoxKeytoyourcompanyculture",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "renderType",
+							"grouping": "Properties",
+							"value": "Bare",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "justifyContent",
+							"grouping": "Properties",
+							"value": "SpaceBetween",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "fitContainer",
+							"grouping": "Properties",
+							"value": "true",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "direction",
+							"grouping": "Properties",
+							"value": "Column",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "alignItems",
+							"grouping": "Properties",
+							"value": "Center",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "alignContent",
+							"grouping": "Properties",
+							"value": "Center",
+							"script": "",
+							"translation": []
+						}
+					],
+					"data": [
+						{
+							"fieldNo": "18b7e869-3739-45a7-c23e-4fbc9becf45c",
+							"fieldName": "Image3",
+							"fieldParent": "6df24bc5-165e-48cb-ac0c-85c4fb5a44e6",
+							"fieldType": "sap.m.Image",
+							"script": "",
+							"customComponent": false,
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "width",
+									"grouping": "Properties",
+									"value": "100%",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "src",
+									"grouping": "Properties",
+									"value": "https://gtmdemosystem.neptune-software.cloud/media/root/Kaan/Screen Shot 2023-08-17 at 22.29.55 PM.png",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": []
+						},
+						{
+							"fieldNo": "1639b9d9-4430-440f-d461-ba836fc42892",
+							"fieldName": "HBox2",
+							"fieldParent": "6df24bc5-165e-48cb-ac0c-85c4fb5a44e6",
+							"fieldType": "sap.m.HBox",
+							"script": "",
+							"customComponent": false,
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "width",
+									"grouping": "Properties",
+									"value": "100%",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "styleClass",
+									"grouping": "Properties",
+									"value": "HBox",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "renderType",
+									"grouping": "Properties",
+									"value": "Bare",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "justifyContent",
+									"grouping": "Properties",
+									"value": "Start",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "fitContainer",
+									"grouping": "Properties",
+									"value": "true",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "direction",
+									"grouping": "Properties",
+									"value": "Column",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": [
+								{
+									"fieldNo": "364c0e8c-6114-4c88-a39f-db58c356fce0",
+									"fieldName": "FormattedKeytoyourcompanyculture1",
+									"fieldParent": "1639b9d9-4430-440f-d461-ba836fc42892",
+									"fieldType": "sap.m.FormattedText",
+									"script": "",
+									"customComponent": false,
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "width",
+											"grouping": "Properties",
+											"value": "95%",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "styleClassMargin",
+											"grouping": "Properties",
+											"value": "sapUiSmallMargin",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "textAlign",
+											"grouping": "Properties",
+											"value": "Left",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": []
+								},
+								{
+									"fieldNo": "a8672d1f-7f6b-4b59-b307-bf41710387ea",
+									"fieldName": "ButtonWhatFoodCanDo1",
+									"fieldParent": "1639b9d9-4430-440f-d461-ba836fc42892",
+									"fieldType": "nep.bootstrap.Button",
+									"script": "",
+									"customComponent": false,
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "styleClass",
+											"grouping": "Properties",
+											"value": "ButtonWhatFoodCanDo",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "text",
+											"grouping": "Properties",
+											"value": "What Food Can Do",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": []
+								}
+							]
+						}
+					]
+				},
+				{
+					"fieldNo": "ff924b1e-6f44-49cf-8a3d-47992f4377c7",
+					"fieldName": "FlexBoxPeopleplanetfriendlyservicesMobile",
+					"fieldParent": "f6d34db4-cb71-48cc-89b1-14f31781daa6",
+					"fieldType": "sap.m.FlexBox",
+					"script": "",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [
+						{
+							"attribute": "width",
+							"grouping": "Properties",
+							"value": "100%",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "styleClassVisibility",
+							"grouping": "Properties",
+							"value": "sapUiVisibleOnlyOnPhone",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "styleClass",
+							"grouping": "Properties",
+							"value": "FlexBoxPeopleplanetfriendlyservices",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "renderType",
+							"grouping": "Properties",
+							"value": "Bare",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "justifyContent",
+							"grouping": "Properties",
+							"value": "SpaceBetween",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "fitContainer",
+							"grouping": "Properties",
+							"value": "true",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "direction",
+							"grouping": "Properties",
+							"value": "Column",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "alignItems",
+							"grouping": "Properties",
+							"value": "Center",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "alignContent",
+							"grouping": "Properties",
+							"value": "Center",
+							"script": "",
+							"translation": []
+						}
+					],
+					"data": [
+						{
+							"fieldNo": "11122aba-3675-449a-b7a4-86262579b28d",
+							"fieldName": "Image4",
+							"fieldParent": "ff924b1e-6f44-49cf-8a3d-47992f4377c7",
+							"fieldType": "sap.m.Image",
+							"script": "",
+							"customComponent": false,
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "width",
+									"grouping": "Properties",
+									"value": "100%",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "src",
+									"grouping": "Properties",
+									"value": "https://gtmdemosystem.neptune-software.cloud/media/root/Kaan/Screen Shot 2023-08-17 at 22.29.43 PM.png",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": []
+						},
+						{
+							"fieldNo": "3989774c-638b-4abb-ba3b-8b7e2db75496",
+							"fieldName": "HBox3",
+							"fieldParent": "ff924b1e-6f44-49cf-8a3d-47992f4377c7",
+							"fieldType": "sap.m.HBox",
+							"script": "",
+							"customComponent": false,
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "width",
+									"grouping": "Properties",
+									"value": "100%",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "styleClass",
+									"grouping": "Properties",
+									"value": "HBox",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "renderType",
+									"grouping": "Properties",
+									"value": "Bare",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "justifyContent",
+									"grouping": "Properties",
+									"value": "Start",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "fitContainer",
+									"grouping": "Properties",
+									"value": "true",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "direction",
+									"grouping": "Properties",
+									"value": "Column",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "alignItems",
+									"grouping": "Properties",
+									"value": "Start",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "alignContent",
+									"grouping": "Properties",
+									"value": "Start",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": [
+								{
+									"fieldNo": "ae4ea6bc-3fa0-4479-b70e-15d35575a00a",
+									"fieldName": "FormattedPeopleplanetfriendlyservices1",
+									"fieldParent": "3989774c-638b-4abb-ba3b-8b7e2db75496",
+									"fieldType": "sap.m.FormattedText",
+									"script": "",
+									"customComponent": false,
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "width",
+											"grouping": "Properties",
+											"value": "90%",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "styleClassMargin",
+											"grouping": "Properties",
+											"value": "sapUiSmallMargin",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "textAlign",
+											"grouping": "Properties",
+											"value": "Left",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": []
+								},
+								{
+									"fieldNo": "a54e78fe-7132-49dd-e438-2f0eb4722538",
+									"fieldName": "ButtonSustainability1",
+									"fieldParent": "3989774c-638b-4abb-ba3b-8b7e2db75496",
+									"fieldType": "nep.bootstrap.Button",
+									"script": "",
+									"customComponent": false,
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "styleClass",
+											"grouping": "Properties",
+											"value": "ButtonSustainability",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "text",
+											"grouping": "Properties",
+											"value": "Sustainability",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": []
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"fieldNo": 99999,
+			"data": [
+				{
+					"fieldNo": "ee907b22-528b-48b2-b9a2-715791848cb6",
+					"fieldName": "Javascript",
+					"fieldParent": 99999,
+					"fieldType": "neptune.Script",
+					"script": "file://script/neptune.Script/Javascript.js",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				}
+			]
+		},
+		{
+			"fieldNo": 99998,
+			"data": []
+		}
+	],
+	"componentInterface": [],
+	"ver": "23.8.17.2241",
+	"application": "compass_footer",
+	"title": "",
+	"description": "",
+	"enableFileStorage": false,
+	"enableManifest": false,
+	"enableStylesheet": true,
+	"enableObfuscate": false,
+	"onlyRunLaunchpad": false,
+	"disabled": false,
+	"loadLaunchpadCode": null,
+	"loadApplicationCode": null,
+	"appType": "A",
+	"ui5_m": true,
+	"ui5_f": false,
+	"ui5_table": false,
+	"ui5_tnt": false,
+	"ui5_uxap": false,
+	"ui5_chart": false,
+	"ui5_theme": "sap_horizon",
+	"ui5_version": "",
+	"ui5_language": null,
+	"ui5_url": "",
+	"cus_theme": "",
+	"css": "file:///css.css",
+	"compiledCss": "file://script/undefined/undefined.script",
+	"header": "",
+	"manifest": "",
+	"globalScript": null,
+	"deleted": false,
+	"libHighchart": false,
+	"libHighmap": false,
+	"publicAccess": false,
+	"ui5_bootstrap": true,
+	"ui5_ionic": false,
+	"useV2AppHandler": false,
+	"compilerTarget": 3,
+	"tabWidth": null,
+	"printWidth": null,
+	"apis": [],
+	"package": "447200f0-533b-ee11-b8f0-002248a2f7be"
+}
